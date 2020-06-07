@@ -1,0 +1,16 @@
+{
+  "name": "eic-helper",
+  "version": "1.0.0",
+  "description": "Tool for generating and validating EIC code.",
+  "main": "main.js",
+  "keywords": [],
+  "author": "Stanislav Novotny",
+  "license": "ISC",
+  "dependencies": {
+    "eic": "^1.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devopsmanagereu/eic-helper.git"
+  }
+}
